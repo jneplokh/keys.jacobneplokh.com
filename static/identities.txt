@@ -1,0 +1,19 @@
+* Domains: https://jacobneplokh.com, https://jnep.xyz
+* Keyoxide: https://keyoxide.org/2A74DD1553821C37819CAA77E4050DE078D551BA
+* Mastodon: https://fosstodon.org/@JacobNeplokh
+* Twitter: https://twitter.com/jacobneplokh
+* Github: https://github.com/jneplokh/
+* Gitlab: https://gitlab.com/jneplokh
+* Hacker News: https://news.ycombinator.com/user?id=jneplokh
+* Lobste.rs: https://lobste.rs/u/jneplokh
+* Reddit: https://reddit.com/u/jneplokh
+* MPU: https://talk.macpowerusers.com/u/jacobneplokh
+* Discuss Write.as: https://discuss.write.as/u/jacobneplokh/
+* Wire: @jacobneplokh
+* Matrix: https://matrix.to/#/@jacob:matrix.jnep.xyz
+* XMPP: jacob@xmpp.jnep.xyz
+* Session: 05e04c3f5495633fd0a4057982bf681953f3d323114c2e8633d50db40354f17d4d
+* Keybase: https://keybase.io/jacobneplokh
+* Email:
+    * me at jacobneplokh dot com
+    * PGP key and fingerprint: https://jacobneplokh.com/pgp
