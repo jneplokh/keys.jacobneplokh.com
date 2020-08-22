@@ -14,9 +14,6 @@ highlight_theme = "gruvbox-light"
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
 
-# Generate RSS Feed
-generate_rss = true
-
 [extra]
 # Put all your custom variables here
 netlify = true
@@ -24,6 +21,5 @@ author = "Jacob Neplokh"
 
 footer_links = [
     {url = "$BASE_URL/about", name = "About"},
-    {url = "$BASE_URL/rss.xml", name = "RSS"},
     {url = "https://github.com/jneplokh/keys", name = "Source on Github"},
 ]
