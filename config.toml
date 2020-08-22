@@ -3,6 +3,8 @@ base_url = "https://keys.jacobneplokh.com"
 title = "Jacob Neplokh's Keys"
 description = "All of Jacob Neplokh's keys organized here"
 
+theme = "lightspeed"
+
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
