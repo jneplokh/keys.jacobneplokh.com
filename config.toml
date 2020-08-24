@@ -4,7 +4,7 @@ title = "Jacob Neplokh's Keys"
 description = "All of Jacob Neplokh's keys organized here"
 
 # Declare theme
-theme = "lightspeed"
+theme = "hyde"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -22,7 +22,6 @@ build_search_index = false
 netlify = true
 author = "Jacob Neplokh"
 
-footer_links = [
-    {url = "$BASE_URL/about", name = "About"},
+hyde_links = [
     {url = "https://github.com/jneplokh/keys", name = "Source on Github"},
 ]
