@@ -1,6 +1,6 @@
 +++
-title = "PGP Keys"
-description = "My different PGP keys"
+title = "PGP Key"
+description = "My PGP key"
 +++
 
 ## Main Key
