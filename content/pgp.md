@@ -9,7 +9,7 @@ For now, I only have one, main PGP key. No subkeys, other keys, or whatever. I r
 
 The email is `me at jacobneplokh dot com`
 
-[Here you can download my PGP key.](/Jacob%20Neplokh%20(78D551BA)%20–%20Public.asc)
+[Here you can download my PGP key.](/keys/Jacob%20Neplokh%20(78D551BA)%20–%20Public.asc)
 
 Fingerprint:
 
