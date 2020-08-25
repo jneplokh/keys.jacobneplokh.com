@@ -17,4 +17,4 @@ Again, my PGP fingerprint is:
 
 I also sign my identities with my [Minisign key](minisign.md).
 
-Should you want to verify this way, [you can download the identities.txt file here](/identities.txt) and [the signature file here](/identities.txt.sig).
+Should you want to verify this way, [you can download the identities.txt file here](/keys/identities.txt) and [the signature file here](/keys/identities.txt.sig).
