@@ -7,7 +7,7 @@ While they are not keys, my identities still fit in with this website as I use m
 
 ## PGP
 
-To verify my identities through my [PGP key](pgp.md), use my [Keyoxide Page](https://keyoxide.org/me@jacobneplokh.com)
+To verify my identities through my [PGP key](pgp), use my [Keyoxide Page](https://keyoxide.org/me@jacobneplokh.com)
 
 Again, my PGP fingerprint is:
 
@@ -15,6 +15,6 @@ Again, my PGP fingerprint is:
 
 ## Minisign/Signify
 
-I also sign my identities with my [Minisign key](minisign.md).
+I also sign my identities with my [Minisign key](minisign).
 
 Should you want to verify this way, [you can download the identities.txt file here](/keys/identities.txt) and [the signature file here](/keys/identities.txt.sig).
