@@ -24,4 +24,5 @@ author = "Jacob Neplokh"
 
 hyde_links = [
     {url = "https://github.com/jneplokh/keys.jacobneplokh.com", name = "Source on GitHub"},
+    {url = "https://jacobneplokh.com", name = "Main Site"},
 ]
