@@ -24,7 +24,7 @@ command = "zola build --base-url $DEPLOY_PRIME_URL"
     Content-Security-Policy = "default-src 'none'; font-src fonts.gstatic.com; script-src 'self'; connect-src 'self'; img-src 'self'; style-src 'self' fonts.googleapis.com; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"
 
 [[headers]]
-  for = "/keys/identities.txt"
+  for = "/keys/*.txt"
   [headers.values]
     Content-Type = "text/plain"
     Content-Disposition = "attachment"
