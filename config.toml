@@ -23,5 +23,5 @@ netlify = true
 author = "Jacob Neplokh"
 
 hyde_links = [
-    {url = "https://github.com/jneplokh/keys", name = "Source on Github"},
+    {url = "https://github.com/jneplokh/keys.jacobneplokh.com", name = "Source on GitHub"},
 ]
